@@ -1,0 +1,16 @@
+{
+    "username": "dg321",
+    "code": "CP111",
+    "title": "Controlling ventilation in buildings using Generative Adversarial Netowrks (GANs) to produce comfortable healthy environments that are energy efficient",
+    "s1": {
+        "name": "Christopher Pain",
+        "email": "c.pain@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "s2": {
+        "name": "Claire Heaney",
+        "email": "c.heaney@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "additional-supervisors": "Rossella Arcucci (ICL) r.arcucci@imperial.ac.uk"
+}
