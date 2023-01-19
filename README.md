@@ -1,4 +1,4 @@
-# IRP
+# Controlling ventilation in buildings using Adversarial Neural Networks to produce comfortable healthy environments that are energy efficient
 
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
